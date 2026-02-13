@@ -7,7 +7,7 @@ This project implements a **Spam Mail Classifier** using **Logistic Regression**
 ## 🚀 Project Overview
 
 Email spam detection is a classic text classification problem.  
-In this project, machine learning techniques are applied to analyze email content and predict whether a given message is spam or legitimate.
+In this project, machine learning technique are applied to analyze email content and predict whether a given message is spam or legitimate.
 
 The model is trained using **Logistic Regression** with **TF-IDF vectorization**, ensuring good performance and generalization on unseen data.
 
